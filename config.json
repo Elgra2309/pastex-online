@@ -1,5 +1,7 @@
 {
-  "version": "1.0",
-  "status": "online",
-  "message": "Actualización lista desde PasteX Online"
+  "version": "1.0.0",
+  "estado": "online",
+  "mensaje": "Actualización lista desde PasteX Online",
+  "url_actualizacion": "https://pastex-online.vercel.app/config.json",
+  "fecha": "2025-11-12"
 }
